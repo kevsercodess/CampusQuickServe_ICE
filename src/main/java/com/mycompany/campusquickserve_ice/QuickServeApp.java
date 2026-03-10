@@ -9,7 +9,7 @@ package com.mycompany.campusquickserve_ice;
  * @author Kevse
  */
 public class QuickServeApp {
-
+// Main method to collect user input and display the receipt
     public static void main(String[] args) {
         String customerName = javax.swing.JOptionPane.showInputDialog("Enter customer name:");
 
