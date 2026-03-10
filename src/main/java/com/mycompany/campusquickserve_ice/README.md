@@ -25,5 +25,8 @@ The program collects input using JOptionPane dialogs. An Order object is created
 - Methods for calculations
 
 ## Screenshot
+This screenshot shows the final receipt output of the program.
 
 ![Receipt Screenshot](receipt.png.jpeg)
+## Author
+Ayse Kevser Erdogan

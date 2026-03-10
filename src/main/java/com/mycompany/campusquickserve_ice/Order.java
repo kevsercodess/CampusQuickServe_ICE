@@ -1,5 +1,5 @@
 package com.mycompany.campusquickserve_ice;
-
+// This class stores order details and performs calculations
 public class Order {
 
     private String customerName;
@@ -52,4 +52,5 @@ public class Order {
                 + "VAT: R" + calculateVAT() + "\n"
                 + "Total: R" + calculateTotal();
     }
+
 }
